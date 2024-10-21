@@ -22,6 +22,11 @@ Dynamic data science enthusiast with robust hands-on experience in machine learn
 </div>
 
 Connect with me:
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_URL">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="50" />
+</a>
+
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/YOUR_LINKEDIN_URL)
 
 ![Python Logo](URL_TO_PYTHON_LOGO)
