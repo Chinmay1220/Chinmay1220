@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Dynamic data science enthusiast with robust hands-on experience in machine learning and deep learning techniques. Proficient in Python, SQL, and a variety of data visualization tools, I excel at transforming complex datasets into actionable insights. With a strong analytical mindset and a meticulous attention to detail, I thrive on solving intricate problems and developing innovative solutions. I am eager to collaborate on impactful projects, leveraging data-driven strategies to drive meaningful change and advance organizational goals.
+
