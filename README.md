@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Hi there, I'm Chinmay Sawant 👋  
-## 👨‍💻 Data Engineer & Data Science Aspirant 📊
+## 👨‍💻 AI Engineer & Data Science Aspirant 📊
 
 <!--
 **Chinmay1220/Chinmay1220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
