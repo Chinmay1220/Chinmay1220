@@ -30,11 +30,6 @@ Connect with me:
 ## 🧰 Technical Skills
 
 ### Programming Languages
-
-![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=yellow)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=yellow)
-![Python](https://img.shields.io/badge/-Python3.11-4B8BBE?style=for-the-badge&logo=python&logoColor=FFD43B)
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
