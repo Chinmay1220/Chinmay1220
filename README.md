@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/chinmay-sawant-9b79a5192">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:sawant.c@northeastern.edu">
+  <a href="mailto:csawant1200@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Chinmay1220?tab=followers">
@@ -39,7 +39,7 @@ class ChinmaySawant:
 - 🌱 I'm currently learning **MLOps, LLMs, and cloud-native data engineering**
 - 👯 I'm open to collaborating on **data science & full-stack ML projects**
 - 💬 Ask me about **Python, SQL, ML, or data viz**
-- 📫 Reach me at **sawant.c@northeastern.edu**
+- 📫 Reach me at **csawant1200@gmail.com**
 - ⚡ Fun fact: **I believe a clean dataset is half the model.**
 
 ---
@@ -47,82 +47,61 @@ class ChinmaySawant:
 ### 🧰 Tech Stack
 
 #### 🖥️ Languages
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,r,java,html,css,bash&perline=8" alt="Languages" />
 </p>
 
 #### 🌐 Frontend & Backend
-<p>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/-REST_APIs-25A162?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,postman&perline=8" alt="Frontend & Backend" />
+  <br/>
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/D63AFF" height="40" alt="JWT" title="JWT" />
+  &nbsp;<img src="https://cdn.simpleicons.org/swagger/85EA2D" height="40" alt="REST APIs" title="REST APIs" />
 </p>
 
 #### 🧠 Data Science & ML
-<p>
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=8" alt="ML Frameworks" />
+  <br/>
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="Jupyter" title="Jupyter" />
+  &nbsp;<img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="NumPy" title="NumPy" />
+  &nbsp;<img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas" title="Pandas" />
+  &nbsp;<img src="https://cdn.simpleicons.org/plotly/3F4F75" height="40" alt="Plotly" title="Plotly" />
+  &nbsp;<img src="https://cdn.simpleicons.org/scipy/8CAAE6" height="40" alt="SciPy" title="SciPy" />
 </p>
 
 #### ☁️ Cloud & Platforms
-<p>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure&perline=8" alt="Cloud" />
 </p>
 
 #### ⚙️ DevOps & CI/CD
-<p>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CI%2FCD-22C55E?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,git,postman&perline=8" alt="DevOps" />
+  <br/>
+  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="40" alt="Apache Airflow" title="Apache Airflow" />
 </p>
 
 #### 🤖 AI / LLM Stack
-<p>
-  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/-LangGraph-FF6F61?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/-RAG-6E56CF?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/-LLMs-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<p align="center">
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40" alt="LangChain" title="LangChain" />
+  &nbsp;<img src="https://cdn.simpleicons.org/langgraph/FF6F61" height="40" alt="LangGraph" title="LangGraph" />
+  &nbsp;<img src="https://cdn.simpleicons.org/openai/8A2BE2" height="40" alt="LLMs" title="LLMs" />
+  &nbsp;<img src="https://cdn.simpleicons.org/anthropic/D97757" height="40" alt="Claude AI" title="Claude AI" />
+  &nbsp;<img src="https://cdn.simpleicons.org/databricks/6E56CF" height="40" alt="RAG" title="RAG (Retrieval-Augmented Generation)" />
 </p>
 
 #### 🗄️ Databases & Data Engineering
-<p>
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ETL%2FELT-FF9900?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=8" alt="Databases" />
+  <br/>
+  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="40" alt="Snowflake" title="Snowflake" />
+  &nbsp;<img src="https://cdn.simpleicons.org/apacheairflow/FF9900" height="40" alt="ETL/ELT" title="ETL / ELT pipelines" />
 </p>
 
 #### 🐧 Operating Systems
-<p>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-UNIX-316192?style=for-the-badge&logo=unix&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows&perline=8" alt="Operating Systems" />
 </p>
 
 ---
