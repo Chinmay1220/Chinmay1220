@@ -47,18 +47,32 @@ class ChinmaySawant:
 <table>
   <tr>
     <td align="right" valign="middle"><b>🖥️&nbsp;Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,js,ts,r,java,html,css,bash" height="36" alt="Languages" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python" height="36" alt="Python" title="Python" />
+      <img src="https://skillicons.dev/icons?i=js" height="36" alt="JavaScript" title="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=ts" height="36" alt="TypeScript" title="TypeScript" />
+      <img src="https://skillicons.dev/icons?i=r" height="36" alt="R" title="R" />
+      <img src="https://skillicons.dev/icons?i=java" height="36" alt="Java" title="Java" />
+      <img src="https://skillicons.dev/icons?i=html" height="36" alt="HTML5" title="HTML5" />
+      <img src="https://skillicons.dev/icons?i=css" height="36" alt="CSS3" title="CSS3" />
+      <img src="https://skillicons.dev/icons?i=bash" height="36" alt="Shell / Bash" title="Shell / Bash" />
+    </td>
     <td align="right" valign="middle"><b>🌐&nbsp;Frontend&nbsp;/&nbsp;Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,postman" height="36" alt="Frontend & Backend" />
+      <img src="https://skillicons.dev/icons?i=react" height="36" alt="React" title="React" />
+      <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="Node.js" title="Node.js" />
+      <img src="https://skillicons.dev/icons?i=fastapi" height="36" alt="FastAPI" title="FastAPI" />
+      <img src="https://skillicons.dev/icons?i=postman" height="36" alt="Postman" title="Postman" />
       <img src="https://cdn.simpleicons.org/jsonwebtokens/D63AFF" height="32" alt="JWT" title="JWT" />
-      <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="32" alt="REST APIs" title="REST APIs" />
+      <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="32" alt="REST APIs" title="REST APIs (Swagger / OpenAPI)" />
     </td>
   </tr>
   <tr>
     <td align="right" valign="middle"><b>🧠&nbsp;Data&nbsp;Sci&nbsp;/&nbsp;ML</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" height="36" alt="ML" />
+      <img src="https://skillicons.dev/icons?i=pytorch" height="36" alt="PyTorch" title="PyTorch" />
+      <img src="https://skillicons.dev/icons?i=tensorflow" height="36" alt="TensorFlow" title="TensorFlow" />
+      <img src="https://skillicons.dev/icons?i=sklearn" height="36" alt="Scikit-learn" title="Scikit-learn" />
       <img src="https://cdn.simpleicons.org/jupyter/F37626" height="32" alt="Jupyter" title="Jupyter" />
       <img src="https://cdn.simpleicons.org/numpy/013243" height="32" alt="NumPy" title="NumPy" />
       <img src="https://cdn.simpleicons.org/pandas/150458" height="32" alt="Pandas" title="Pandas" />
@@ -83,22 +97,36 @@ class ChinmaySawant:
   </tr>
   <tr>
     <td align="right" valign="middle"><b>☁️&nbsp;Cloud</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,gcp,azure" height="36" alt="Cloud" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws" height="36" alt="AWS" title="AWS" />
+      <img src="https://skillicons.dev/icons?i=gcp" height="36" alt="Google Cloud" title="Google Cloud" />
+      <img src="https://skillicons.dev/icons?i=azure" height="36" alt="Azure" title="Microsoft Azure" />
+    </td>
     <td align="right" valign="middle"><b>⚙️&nbsp;DevOps&nbsp;/&nbsp;CI/CD</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,git" height="36" alt="DevOps" />
+      <img src="https://skillicons.dev/icons?i=docker" height="36" alt="Docker" title="Docker" />
+      <img src="https://skillicons.dev/icons?i=kubernetes" height="36" alt="Kubernetes" title="Kubernetes" />
+      <img src="https://skillicons.dev/icons?i=jenkins" height="36" alt="Jenkins" title="Jenkins" />
+      <img src="https://skillicons.dev/icons?i=githubactions" height="36" alt="GitHub Actions" title="GitHub Actions" />
+      <img src="https://skillicons.dev/icons?i=git" height="36" alt="Git" title="Git" />
       <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="32" alt="Apache Airflow" title="Apache Airflow" />
     </td>
   </tr>
   <tr>
     <td align="right" valign="middle"><b>🗄️&nbsp;Databases</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" height="36" alt="Databases" />
+      <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="PostgreSQL" title="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=mysql" height="36" alt="MySQL" title="MySQL" />
+      <img src="https://skillicons.dev/icons?i=sqlite" height="36" alt="SQLite" title="SQLite" />
+      <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="MongoDB" title="MongoDB" />
       <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="32" alt="Snowflake" title="Snowflake" />
       <img src="https://img.shields.io/badge/ETL%2FELT-FF9900?style=flat-square&logo=apacheairflow&logoColor=white" height="24" alt="ETL/ELT" title="ETL / ELT pipelines" />
     </td>
     <td align="right" valign="middle"><b>🐧&nbsp;OS</b></td>
-    <td><img src="https://skillicons.dev/icons?i=linux,windows" height="36" alt="OS" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=linux" height="36" alt="Linux" title="Linux" />
+      <img src="https://skillicons.dev/icons?i=windows" height="36" alt="Windows" title="Windows" />
+    </td>
   </tr>
 </table>
 
