@@ -12,9 +12,6 @@
   <a href="mailto:csawant1200@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Chinmay1220?tab=followers">
-    <img src="https://img.shields.io/github/followers/Chinmay1220?label=Follow&style=flat-square&color=4F8CFF" alt="Followers" />
-  </a>
 </p>
 
 ---
@@ -107,18 +104,17 @@ class ChinmaySawant:
 
 ---
 
-### 📊 GitHub Stats
+### 📊 At a Glance
 
 <p align="center">
-  <a href="https://github.com/Chinmay1220?tab=followers"><img src="https://img.shields.io/github/followers/Chinmay1220?style=for-the-badge&logo=github&logoColor=white&color=4F8CFF&labelColor=1a1b27&label=Followers" alt="Followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Chinmay1220&label=Profile%20Views&color=8A2BE2&style=for-the-badge&labelColor=1a1b27" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%2F%20LLMs%20%2F%20DS-D97757?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=1a1b27" alt="Focus" />
+  <img src="https://img.shields.io/badge/🎓_Education-Northeastern_MSIS-A41E22?style=for-the-badge&labelColor=24292f" alt="Education" />
+  <img src="https://img.shields.io/badge/📍_Based_in-United_States-1F6FEB?style=for-the-badge&labelColor=24292f" alt="Location" />
+  <img src="https://img.shields.io/badge/💼_Open_to-Opportunities-238636?style=for-the-badge&labelColor=24292f" alt="Open to opportunities" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MSIS-Northeastern%20University-CC0000?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1b27" alt="Education" />
-  <img src="https://img.shields.io/badge/Based%20in-United%20States-4F8CFF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1b27" alt="Location" />
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-22C55E?style=for-the-badge&logo=handshake&logoColor=white&labelColor=1a1b27" alt="Open to opportunities" />
+  <img src="https://img.shields.io/badge/🎯_Focus-AI_Agents_·_LLMs_·_Data_Science-8957E5?style=for-the-badge&labelColor=24292f" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=Chinmay1220&label=Profile%20Views&color=DB6D28&style=for-the-badge&labelColor=24292f" alt="Profile views" />
 </p>
 
 <p align="center">
