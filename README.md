@@ -110,9 +110,19 @@ class ChinmaySawant:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Chinmay1220&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165em" src="https://streak-stats.demolab.com?user=Chinmay1220&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay1220&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <a href="https://github.com/Chinmay1220?tab=followers"><img src="https://img.shields.io/github/followers/Chinmay1220?style=for-the-badge&logo=github&logoColor=white&color=4F8CFF&labelColor=1a1b27&label=Followers" alt="Followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Chinmay1220&label=Profile%20Views&color=8A2BE2&style=for-the-badge&labelColor=1a1b27" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%2F%20LLMs%20%2F%20DS-D97757?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=1a1b27" alt="Focus" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MSIS-Northeastern%20University-CC0000?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1b27" alt="Education" />
+  <img src="https://img.shields.io/badge/Boston-MA-4F8CFF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1b27" alt="Location" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-22C55E?style=for-the-badge&logo=handshake&logoColor=white&labelColor=1a1b27" alt="Open to opportunities" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Chinmay1220&theme=tokyonight&hide_border=true&card_width=600" alt="GitHub Streak" />
 </p>
 
 ---
