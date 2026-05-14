@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/Chinmay1220">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=4F8CFF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Chinmay+Sawant+%F0%9F%91%8B;Engineer+%26+Data+Science+Aspirant+%F0%9F%93%8A;Turning+Data+into+Decisions+%E2%9A%A1;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=4F8CFF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Chinmay+Sawant+%F0%9F%91%8B;Engineer+%26+Data+Science+Aspirant+%F0%9F%93%8A;Building+AI+Agents+%26+LLM+Apps+%F0%9F%A4%96;Turning+Data+into+Decisions+%E2%9A%A1;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -27,20 +27,21 @@ class ChinmaySawant:
         self.role        = "Engineer & Data Science Aspirant"
         self.education   = "Northeastern University"
         self.languages   = ["Python", "SQL", "R", "Java", "JavaScript"]
-        self.interests   = ["Machine Learning", "Deep Learning", "Data Engineering"]
-        self.currently   = "Building ML pipelines & exploring LLMs"
+        self.interests   = ["Machine Learning", "Deep Learning", "Generative AI",
+                            "LLMs", "AI Agents", "Data Engineering"]
+        self.currently   = "Building ML pipelines & AI agent workflows with LLMs"
         self.motto       = "Turn complex data into clear decisions."
 
     def say_hi(self):
         print("Thanks for stopping by — let's build something great! 🚀")
 ```
 
-- 🔭 I'm currently working on **ML pipelines and data-driven applications**
-- 🌱 I'm currently learning **MLOps, LLMs, and cloud-native data engineering**
-- 👯 I'm open to collaborating on **data science & full-stack ML projects**
-- 💬 Ask me about **Python, SQL, ML, or data viz**
+- 🔭 I'm currently working on **ML pipelines, AI agents, and LLM-powered apps**
+- 🌱 I'm currently learning **MLOps, agentic AI, RAG, and cloud-native data engineering**
+- 👯 I'm open to collaborating on **AI agents, GenAI, data science & full-stack ML projects**
+- 💬 Ask me about **Python, SQL, ML, LLMs, AI agents, or data viz**
 - 📫 Reach me at **csawant1200@gmail.com**
-- ⚡ Fun fact: **I believe a clean dataset is half the model.**
+- ⚡ Fun fact: **I believe a clean dataset is half the model — and a well-designed agent is the other half.**
 
 ---
 
@@ -67,13 +68,20 @@ class ChinmaySawant:
       <img src="https://cdn.simpleicons.org/plotly/3F4F75" height="32" alt="Plotly" title="Plotly" />
       <img src="https://cdn.simpleicons.org/scipy/8CAAE6" height="32" alt="SciPy" title="SciPy" />
     </td>
-    <td align="right" valign="middle"><b>🤖&nbsp;AI&nbsp;/&nbsp;LLM</b></td>
+    <td align="right" valign="middle"><b>🤖&nbsp;AI&nbsp;/&nbsp;LLM&nbsp;/&nbsp;Agents</b></td>
     <td>
-      <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="32" alt="LangChain" title="LangChain" />
+      <img src="https://cdn.simpleicons.org/openai/412991" height="32" alt="OpenAI" title="OpenAI / ChatGPT" />
       <img src="https://cdn.simpleicons.org/anthropic/D97757" height="32" alt="Claude AI" title="Claude AI (Anthropic)" />
-      <img src="https://cdn.simpleicons.org/openaigym/0081A5" height="32" alt="LLMs" title="LLMs" />
-      <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=flat-square&logo=langchain&logoColor=white" height="24" alt="LangGraph" title="LangGraph" />
-      <img src="https://img.shields.io/badge/RAG-6E56CF?style=flat-square&logo=databricks&logoColor=white" height="24" alt="RAG" title="RAG" />
+      <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="32" alt="Gemini" title="Google Gemini" />
+      <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="32" alt="Hugging Face" title="Hugging Face" />
+      <img src="https://cdn.simpleicons.org/ollama/000000" height="32" alt="Ollama" title="Ollama" />
+      <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="32" alt="LangChain" title="LangChain" />
+      <br/>
+      <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square&logo=openai&logoColor=white" height="24" alt="LLMs" title="LLMs" />
+      <img src="https://img.shields.io/badge/AI_Agents-22C55E?style=flat-square&logo=robotframework&logoColor=white" height="24" alt="AI Agents" title="AI Agents" />
+      <img src="https://img.shields.io/badge/GenAI-FF6F61?style=flat-square&logo=openai&logoColor=white" height="24" alt="Generative AI" title="Generative AI" />
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="24" alt="LangGraph" title="LangGraph" />
+      <img src="https://img.shields.io/badge/RAG-6E56CF?style=flat-square&logo=databricks&logoColor=white" height="24" alt="RAG" title="RAG (Retrieval-Augmented Generation)" />
     </td>
   </tr>
   <tr>
