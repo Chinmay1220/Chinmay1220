@@ -49,59 +49,51 @@ class ChinmaySawant:
 <table>
   <tr>
     <td align="right" valign="middle"><b>🖥️&nbsp;Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,js,ts,r,java,html,css,bash" height="40" alt="Languages" /></td>
-  </tr>
-  <tr>
-    <td align="right" valign="middle"><b>🌐&nbsp;Frontend&nbsp;&&nbsp;Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,js,ts,r,java,html,css,bash" height="36" alt="Languages" /></td>
+    <td align="right" valign="middle"><b>🌐&nbsp;Frontend&nbsp;/&nbsp;Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,postman" height="40" alt="Frontend & Backend" />
-      <img src="https://cdn.simpleicons.org/jsonwebtokens/D63AFF" height="36" alt="JWT" title="JWT" />
-      <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="36" alt="REST APIs" title="REST APIs" />
+      <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,postman" height="36" alt="Frontend & Backend" />
+      <img src="https://cdn.simpleicons.org/jsonwebtokens/D63AFF" height="32" alt="JWT" title="JWT" />
+      <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="32" alt="REST APIs" title="REST APIs" />
     </td>
   </tr>
   <tr>
-    <td align="right" valign="middle"><b>🧠&nbsp;Data&nbsp;Science&nbsp;&&nbsp;ML</b></td>
+    <td align="right" valign="middle"><b>🧠&nbsp;Data&nbsp;Sci&nbsp;/&nbsp;ML</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" height="40" alt="ML" />
-      <img src="https://cdn.simpleicons.org/jupyter/F37626" height="36" alt="Jupyter" title="Jupyter" />
-      <img src="https://cdn.simpleicons.org/numpy/013243" height="36" alt="NumPy" title="NumPy" />
-      <img src="https://cdn.simpleicons.org/pandas/150458" height="36" alt="Pandas" title="Pandas" />
-      <img src="https://cdn.simpleicons.org/plotly/3F4F75" height="36" alt="Plotly" title="Plotly" />
-      <img src="https://cdn.simpleicons.org/scipy/8CAAE6" height="36" alt="SciPy" title="SciPy" />
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" height="36" alt="ML" />
+      <img src="https://cdn.simpleicons.org/jupyter/F37626" height="32" alt="Jupyter" title="Jupyter" />
+      <img src="https://cdn.simpleicons.org/numpy/013243" height="32" alt="NumPy" title="NumPy" />
+      <img src="https://cdn.simpleicons.org/pandas/150458" height="32" alt="Pandas" title="Pandas" />
+      <img src="https://cdn.simpleicons.org/plotly/3F4F75" height="32" alt="Plotly" title="Plotly" />
+      <img src="https://cdn.simpleicons.org/scipy/8CAAE6" height="32" alt="SciPy" title="SciPy" />
+    </td>
+    <td align="right" valign="middle"><b>🤖&nbsp;AI&nbsp;/&nbsp;LLM</b></td>
+    <td>
+      <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="32" alt="LangChain" title="LangChain" />
+      <img src="https://cdn.simpleicons.org/anthropic/D97757" height="32" alt="Claude AI" title="Claude AI (Anthropic)" />
+      <img src="https://cdn.simpleicons.org/openaigym/0081A5" height="32" alt="LLMs" title="LLMs" />
+      <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=flat-square&logo=langchain&logoColor=white" height="24" alt="LangGraph" title="LangGraph" />
+      <img src="https://img.shields.io/badge/RAG-6E56CF?style=flat-square&logo=databricks&logoColor=white" height="24" alt="RAG" title="RAG" />
     </td>
   </tr>
   <tr>
     <td align="right" valign="middle"><b>☁️&nbsp;Cloud</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,gcp,azure" height="40" alt="Cloud" /></td>
-  </tr>
-  <tr>
-    <td align="right" valign="middle"><b>⚙️&nbsp;DevOps&nbsp;&&nbsp;CI/CD</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,gcp,azure" height="36" alt="Cloud" /></td>
+    <td align="right" valign="middle"><b>⚙️&nbsp;DevOps&nbsp;/&nbsp;CI/CD</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,git" height="40" alt="DevOps" />
-      <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="36" alt="Apache Airflow" title="Apache Airflow" />
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,git" height="36" alt="DevOps" />
+      <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="32" alt="Apache Airflow" title="Apache Airflow" />
     </td>
   </tr>
   <tr>
-    <td align="right" valign="middle"><b>🤖&nbsp;AI&nbsp;/&nbsp;LLM&nbsp;Stack</b></td>
+    <td align="right" valign="middle"><b>🗄️&nbsp;Databases</b></td>
     <td>
-      <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="36" alt="LangChain" title="LangChain" />
-      <img src="https://cdn.simpleicons.org/anthropic/D97757" height="36" alt="Claude AI" title="Claude AI (Anthropic)" />
-      <img src="https://cdn.simpleicons.org/openaigym/0081A5" height="36" alt="LLMs" title="LLMs" />
-      <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=flat-square&logo=langchain&logoColor=white" height="28" alt="LangGraph" title="LangGraph" />
-      <img src="https://img.shields.io/badge/RAG-6E56CF?style=flat-square&logo=databricks&logoColor=white" height="28" alt="RAG" title="RAG" />
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" height="36" alt="Databases" />
+      <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="32" alt="Snowflake" title="Snowflake" />
+      <img src="https://img.shields.io/badge/ETL%2FELT-FF9900?style=flat-square&logo=apacheairflow&logoColor=white" height="24" alt="ETL/ELT" title="ETL / ELT pipelines" />
     </td>
-  </tr>
-  <tr>
-    <td align="right" valign="middle"><b>🗄️&nbsp;Databases&nbsp;&&nbsp;Data&nbsp;Eng.</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" height="40" alt="Databases" />
-      <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="36" alt="Snowflake" title="Snowflake" />
-      <img src="https://img.shields.io/badge/ETL%2FELT-FF9900?style=flat-square&logo=apacheairflow&logoColor=white" height="28" alt="ETL/ELT" title="ETL / ELT pipelines" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right" valign="middle"><b>🐧&nbsp;Operating&nbsp;Systems</b></td>
-    <td><img src="https://skillicons.dev/icons?i=linux,windows" height="40" alt="OS" /></td>
+    <td align="right" valign="middle"><b>🐧&nbsp;OS</b></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,windows" height="36" alt="OS" /></td>
   </tr>
 </table>
 
@@ -110,32 +102,9 @@ class ChinmaySawant:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chinmay1220&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay1220&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Chinmay1220&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chinmay1220&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chinmay1220&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
----
-
-### 💡 A Quote I Live By
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Chinmay1220&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="165em" src="https://streak-stats.demolab.com?user=Chinmay1220&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay1220&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
