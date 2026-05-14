@@ -67,15 +67,15 @@ class ChinmaySawant:
     </td>
     <td align="right" valign="middle"><b>🤖&nbsp;AI&nbsp;/&nbsp;LLM&nbsp;/&nbsp;Agents</b></td>
     <td>
-      <img src="https://cdn.simpleicons.org/openai/412991" height="32" alt="OpenAI" title="OpenAI / ChatGPT" />
-      <img src="https://cdn.simpleicons.org/anthropic/D97757" height="32" alt="Claude AI" title="Claude AI (Anthropic)" />
-      <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="32" alt="Gemini" title="Google Gemini" />
-      <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="32" alt="Hugging Face" title="Hugging Face" />
-      <img src="https://cdn.simpleicons.org/ollama/000000" height="32" alt="Ollama" title="Ollama" />
-      <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="32" alt="LangChain" title="LangChain" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="24" alt="OpenAI" title="OpenAI / ChatGPT" />
+      <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" height="24" alt="Claude AI" title="Claude AI (Anthropic)" />
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" height="24" alt="Gemini" title="Google Gemini" />
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="24" alt="Hugging Face" title="Hugging Face" />
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" height="24" alt="Ollama" title="Ollama" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="24" alt="LangChain" title="LangChain" />
       <br/>
       <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square&logo=openai&logoColor=white" height="24" alt="LLMs" title="LLMs" />
-      <img src="https://img.shields.io/badge/AI_Agents-22C55E?style=flat-square&logo=robotframework&logoColor=white" height="24" alt="AI Agents" title="AI Agents" />
+      <img src="https://img.shields.io/badge/AI%20Agents-22C55E?style=flat-square&logo=robotframework&logoColor=white" height="24" alt="AI Agents" title="AI Agents" />
       <img src="https://img.shields.io/badge/GenAI-FF6F61?style=flat-square&logo=openai&logoColor=white" height="24" alt="Generative AI" title="Generative AI" />
       <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="24" alt="LangGraph" title="LangGraph" />
       <img src="https://img.shields.io/badge/RAG-6E56CF?style=flat-square&logo=databricks&logoColor=white" height="24" alt="RAG" title="RAG (Retrieval-Augmented Generation)" />
