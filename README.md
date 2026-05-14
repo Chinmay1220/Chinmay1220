@@ -46,63 +46,64 @@ class ChinmaySawant:
 
 ### 🧰 Tech Stack
 
-#### 🖥️ Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,r,java,html,css,bash&perline=8" alt="Languages" />
-</p>
-
-#### 🌐 Frontend & Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,postman&perline=8" alt="Frontend & Backend" />
-  <br/>
-  <img src="https://cdn.simpleicons.org/jsonwebtokens/D63AFF" height="40" alt="JWT" title="JWT" />
-  &nbsp;<img src="https://cdn.simpleicons.org/swagger/85EA2D" height="40" alt="REST APIs" title="REST APIs" />
-</p>
-
-#### 🧠 Data Science & ML
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=8" alt="ML Frameworks" />
-  <br/>
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="Jupyter" title="Jupyter" />
-  &nbsp;<img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="NumPy" title="NumPy" />
-  &nbsp;<img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas" title="Pandas" />
-  &nbsp;<img src="https://cdn.simpleicons.org/plotly/3F4F75" height="40" alt="Plotly" title="Plotly" />
-  &nbsp;<img src="https://cdn.simpleicons.org/scipy/8CAAE6" height="40" alt="SciPy" title="SciPy" />
-</p>
-
-#### ☁️ Cloud & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure&perline=8" alt="Cloud" />
-</p>
-
-#### ⚙️ DevOps & CI/CD
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,git,postman&perline=8" alt="DevOps" />
-  <br/>
-  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="40" alt="Apache Airflow" title="Apache Airflow" />
-</p>
-
-#### 🤖 AI / LLM Stack
-<p align="center">
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40" alt="LangChain" title="LangChain" />
-  &nbsp;<img src="https://cdn.simpleicons.org/langgraph/FF6F61" height="40" alt="LangGraph" title="LangGraph" />
-  &nbsp;<img src="https://cdn.simpleicons.org/openai/8A2BE2" height="40" alt="LLMs" title="LLMs" />
-  &nbsp;<img src="https://cdn.simpleicons.org/anthropic/D97757" height="40" alt="Claude AI" title="Claude AI" />
-  &nbsp;<img src="https://cdn.simpleicons.org/databricks/6E56CF" height="40" alt="RAG" title="RAG (Retrieval-Augmented Generation)" />
-</p>
-
-#### 🗄️ Databases & Data Engineering
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=8" alt="Databases" />
-  <br/>
-  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="40" alt="Snowflake" title="Snowflake" />
-  &nbsp;<img src="https://cdn.simpleicons.org/apacheairflow/FF9900" height="40" alt="ETL/ELT" title="ETL / ELT pipelines" />
-</p>
-
-#### 🐧 Operating Systems
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows&perline=8" alt="Operating Systems" />
-</p>
+<table>
+  <tr>
+    <td align="right" valign="middle"><b>🖥️&nbsp;Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,js,ts,r,java,html,css,bash" height="40" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>🌐&nbsp;Frontend&nbsp;&&nbsp;Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,postman" height="40" alt="Frontend & Backend" />
+      <img src="https://cdn.simpleicons.org/jsonwebtokens/D63AFF" height="36" alt="JWT" title="JWT" />
+      <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="36" alt="REST APIs" title="REST APIs" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>🧠&nbsp;Data&nbsp;Science&nbsp;&&nbsp;ML</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" height="40" alt="ML" />
+      <img src="https://cdn.simpleicons.org/jupyter/F37626" height="36" alt="Jupyter" title="Jupyter" />
+      <img src="https://cdn.simpleicons.org/numpy/013243" height="36" alt="NumPy" title="NumPy" />
+      <img src="https://cdn.simpleicons.org/pandas/150458" height="36" alt="Pandas" title="Pandas" />
+      <img src="https://cdn.simpleicons.org/plotly/3F4F75" height="36" alt="Plotly" title="Plotly" />
+      <img src="https://cdn.simpleicons.org/scipy/8CAAE6" height="36" alt="SciPy" title="SciPy" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>☁️&nbsp;Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,gcp,azure" height="40" alt="Cloud" /></td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>⚙️&nbsp;DevOps&nbsp;&&nbsp;CI/CD</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,git" height="40" alt="DevOps" />
+      <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="36" alt="Apache Airflow" title="Apache Airflow" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>🤖&nbsp;AI&nbsp;/&nbsp;LLM&nbsp;Stack</b></td>
+    <td>
+      <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="36" alt="LangChain" title="LangChain" />
+      <img src="https://cdn.simpleicons.org/anthropic/D97757" height="36" alt="Claude AI" title="Claude AI (Anthropic)" />
+      <img src="https://cdn.simpleicons.org/openaigym/0081A5" height="36" alt="LLMs" title="LLMs" />
+      <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=flat-square&logo=langchain&logoColor=white" height="28" alt="LangGraph" title="LangGraph" />
+      <img src="https://img.shields.io/badge/RAG-6E56CF?style=flat-square&logo=databricks&logoColor=white" height="28" alt="RAG" title="RAG" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>🗄️&nbsp;Databases&nbsp;&&nbsp;Data&nbsp;Eng.</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" height="40" alt="Databases" />
+      <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="36" alt="Snowflake" title="Snowflake" />
+      <img src="https://img.shields.io/badge/ETL%2FELT-FF9900?style=flat-square&logo=apacheairflow&logoColor=white" height="28" alt="ETL/ELT" title="ETL / ELT pipelines" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>🐧&nbsp;Operating&nbsp;Systems</b></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,windows" height="40" alt="OS" /></td>
+  </tr>
+</table>
 
 ---
 
