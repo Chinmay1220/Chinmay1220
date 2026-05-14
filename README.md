@@ -117,7 +117,7 @@ class ChinmaySawant:
 
 <p align="center">
   <img src="https://img.shields.io/badge/MSIS-Northeastern%20University-CC0000?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1b27" alt="Education" />
-  <img src="https://img.shields.io/badge/Boston-MA-4F8CFF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1b27" alt="Location" />
+  <img src="https://img.shields.io/badge/Based%20in-United%20States-4F8CFF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1b27" alt="Location" />
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-22C55E?style=for-the-badge&logo=handshake&logoColor=white&labelColor=1a1b27" alt="Open to opportunities" />
 </p>
 
