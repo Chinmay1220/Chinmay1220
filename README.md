@@ -161,6 +161,13 @@ class ChinmaySawant:
       Merged contribution improving cache scanning behavior by skipping Windows metadata files.
     </td>
   </tr>
+  <tr>
+    <td><b>Apache Airflow</b></td>
+    <td>
+      <a href="https://github.com/apache/airflow/pull/68344">Fix ADLS ObjectStoragePath connection parsing</a><br/>
+      Open PR improving Azure Data Lake Storage connection parsing while preserving existing account URL behavior.
+    </td>
+  </tr>
 </table>
 
 ---
