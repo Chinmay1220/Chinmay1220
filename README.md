@@ -151,6 +151,20 @@ class ChinmaySawant:
 
 ---
 
+### Open Source Contributions
+
+<table>
+  <tr>
+    <td><b>Hugging Face Hub</b></td>
+    <td>
+      <a href="https://github.com/huggingface/huggingface_hub/pull/4357">Ignore Windows metadata files in cache scan</a><br/>
+      Merged contribution improving cache scanning behavior by skipping Windows metadata files.
+    </td>
+  </tr>
+</table>
+
+---
+
 <p align="center">
   <i>✨ Thanks for visiting — feel free to explore my repos and connect! ✨</i>
 </p>
