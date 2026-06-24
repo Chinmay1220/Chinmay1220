@@ -153,6 +153,10 @@ class ChinmaySawant:
 
 ### Open Source Contributions
 
+<p align="center">
+  <a href="https://chinmay1220.github.io"><b>View full open source contributions page</b></a>
+</p>
+
 <table>
   <tr>
     <td><b>Hugging Face Hub</b></td>
