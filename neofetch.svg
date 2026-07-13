@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="968" height="643" viewBox="0 0 968 643" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="15">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#39c5cf"/><stop offset="0.5" stop-color="#58a6ff"/><stop offset="1" stop-color="#bc8cff"/></linearGradient></defs>
+<rect x="1" y="1" width="966" height="641" rx="14" fill="#0d1117" stroke="#30363d"/>
+<circle cx="26" cy="26" r="6" fill="#ff5f57"/>
+<circle cx="46" cy="26" r="6" fill="#febc2e"/>
+<circle cx="66" cy="26" r="6" fill="#28c840"/>
+<text x="944" y="31" text-anchor="end" fill="#6e7681" font-size="12">chinmay@sawant: ~</text>
+<text x="26" y="100" fill="url(#g)" xml:space="preserve">      ██████╗ ███████╗</text>
+<text x="26" y="121" fill="url(#g)" xml:space="preserve">     ██╔════╝ ██╔════╝</text>
+<text x="26" y="142" fill="url(#g)" xml:space="preserve">     ██║      ███████╗</text>
+<text x="26" y="163" fill="url(#g)" xml:space="preserve">     ██║      ╚════██║</text>
+<text x="26" y="184" fill="url(#g)" xml:space="preserve">     ╚██████╗ ███████║</text>
+<text x="26" y="205" fill="url(#g)" xml:space="preserve">      ╚═════╝ ╚══════╝</text>
+<text x="26" y="247" fill="#e6edf3" xml:space="preserve">   C H I N M A Y   S A W A N T</text>
+<text x="26" y="289" fill="#39c5cf" xml:space="preserve">   ◇ data · ai · llm agents</text>
+<text x="26" y="310" fill="#6e7681" xml:space="preserve">   ◇ turning data into decisions</text>
+<text x="26" y="352" fill="#3fb950" xml:space="preserve">   ❯ msis @ northeastern</text>
+<text x="26" y="373" fill="#bc8cff" xml:space="preserve">   ❯ [▓▓▓▓▓▓▓▓▓▓░░░]</text>
+<text x="352" y="58" xml:space="preserve" font-weight="600"><tspan fill="#3fb950">chinmay</tspan><tspan fill="#e6edf3">@</tspan><tspan fill="#3fb950">sawant</tspan></text>
+<text x="352" y="79" fill="#6e7681" xml:space="preserve">──────────────────────────────────────────────</text>
+<text x="352" y="100" xml:space="preserve"><tspan fill="#e6edf3">OS</tspan><tspan fill="#6e7681"> ..................... </tspan><tspan fill="#58a6ff">macOS · Windows · Linux</tspan></text>
+<text x="352" y="121" xml:space="preserve"><tspan fill="#e6edf3">Host</tspan><tspan fill="#6e7681"> ................... </tspan><tspan fill="#58a6ff">Northeastern University · MSIS</tspan></text>
+<text x="352" y="142" xml:space="preserve"><tspan fill="#e6edf3">Uptime</tspan><tspan fill="#6e7681"> ................. </tspan><tspan fill="#58a6ff">on GitHub since Sep 2023</tspan></text>
+<text x="352" y="163" xml:space="preserve"><tspan fill="#e6edf3">Kernel</tspan><tspan fill="#6e7681"> ................. </tspan><tspan fill="#58a6ff">Data Science · Machine Learning</tspan></text>
+<text x="352" y="184" xml:space="preserve"><tspan fill="#e6edf3">Shell</tspan><tspan fill="#6e7681"> .................. </tspan><tspan fill="#58a6ff">bash · zsh</tspan></text>
+<text x="352" y="205" xml:space="preserve"><tspan fill="#e6edf3">IDE</tspan><tspan fill="#6e7681"> .................... </tspan><tspan fill="#58a6ff">VS Code · IntelliJ IDEA</tspan></text>
+<text x="352" y="247" xml:space="preserve"><tspan fill="#e6edf3">Languages.Programming</tspan><tspan fill="#6e7681"> .. </tspan><tspan fill="#3fb950">Python · TypeScript · Java · JS</tspan></text>
+<text x="352" y="268" xml:space="preserve"><tspan fill="#e6edf3">Languages.Data</tspan><tspan fill="#6e7681"> ......... </tspan><tspan fill="#3fb950">SQL · R · Pandas · PyTorch</tspan></text>
+<text x="352" y="289" xml:space="preserve"><tspan fill="#e6edf3">Languages.Real</tspan><tspan fill="#6e7681"> ......... </tspan><tspan fill="#3fb950">English · &lt;add more&gt;</tspan></text>
+<text x="352" y="331" xml:space="preserve"><tspan fill="#e6edf3">Focus</tspan><tspan fill="#6e7681"> .................. </tspan><tspan fill="#bc8cff">LLM agents · multi-agent · RAG</tspan></text>
+<text x="352" y="352" xml:space="preserve"><tspan fill="#e6edf3">Building</tspan><tspan fill="#6e7681"> ............... </tspan><tspan fill="#bc8cff">ML pipelines &amp; LLM-powered apps</tspan></text>
+<text x="352" y="373" xml:space="preserve"><tspan fill="#e6edf3">Learning</tspan><tspan fill="#6e7681"> ............... </tspan><tspan fill="#bc8cff">MLOps · agentic AI · cloud data eng</tspan></text>
+<text x="352" y="394" xml:space="preserve"><tspan fill="#e6edf3">Hobbies</tspan><tspan fill="#6e7681"> ................ </tspan><tspan fill="#bc8cff">&lt;add a couple&gt;</tspan></text>
+<text x="352" y="436" xml:space="preserve"><tspan fill="#e6edf3" font-weight="600">Contact </tspan><tspan fill="#6e7681">──────────────────────────────────────</tspan></text>
+<text x="352" y="457" xml:space="preserve"><tspan fill="#e6edf3">Email</tspan><tspan fill="#6e7681"> .................. </tspan><tspan fill="#f0a868">csawant1200@gmail.com</tspan></text>
+<text x="352" y="478" xml:space="preserve"><tspan fill="#e6edf3">LinkedIn</tspan><tspan fill="#6e7681"> ............... </tspan><tspan fill="#f0a868">in/chinmay-sawant-9b79a5192</tspan></text>
+<text x="352" y="499" xml:space="preserve"><tspan fill="#e6edf3">GitHub</tspan><tspan fill="#6e7681"> ................. </tspan><tspan fill="#f0a868">Chinmay1220</tspan></text>
+<text x="352" y="520" xml:space="preserve"><tspan fill="#e6edf3">Portfolio</tspan><tspan fill="#6e7681"> .............. </tspan><tspan fill="#f0a868">chinmay1220.github.io</tspan></text>
+<text x="352" y="562" xml:space="preserve"><tspan fill="#e6edf3" font-weight="600">GitHub Stats </tspan><tspan fill="#6e7681">─────────────────────────────────</tspan></text>
+<text x="352" y="583" xml:space="preserve"><tspan fill="#e6edf3">Repos</tspan><tspan fill="#6e7681"> .................. </tspan><tspan fill="#e3b341">44   ·   Followers: 2   ·   Following: 1</tspan></text>
+<text x="352" y="604" xml:space="preserve"><tspan fill="#3fb950" xml:space="preserve">███ Python</tspan><tspan fill="#f0a868" xml:space="preserve">  ██ Jupyter</tspan><tspan fill="#58a6ff" xml:space="preserve">  ██ TS</tspan><tspan fill="#e3b341" xml:space="preserve">  █ Java</tspan><tspan fill="#f0653e" xml:space="preserve">  █ HTML</tspan></text>
+</svg>
