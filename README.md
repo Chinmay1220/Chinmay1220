@@ -1,12 +1,3 @@
-<!-- ┌────────────────────────────────────────────────────────────┐ -->
-<!-- │  Neofetch-style profile card. Edit neofetch.svg to update.   │ -->
-<!-- └────────────────────────────────────────────────────────────┘ -->
-<p align="center">
-  <img src="./neofetch.svg" width="100%" alt="Chinmay Sawant — neofetch-style profile card" />
-</p>
-
----
-
 <h1 align="center">
   <a href="https://github.com/Chinmay1220">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=4F8CFF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Chinmay+Sawant+%F0%9F%91%8B;Engineer+%26+Data+Science+Aspirant+%F0%9F%93%8A;Building+AI+Agents+%26+LLM+Apps+%F0%9F%A4%96;Turning+Data+into+Decisions+%E2%9A%A1;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
