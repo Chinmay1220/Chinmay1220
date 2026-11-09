@@ -29,10 +29,4 @@
 
 <br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-act-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/h-act-light.svg"><img src="assets/h-act-light.svg" alt="Activity" width="100%"></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/activity-light.svg"><img src="assets/activity-light.svg" alt="429 contributions in the last year, drawn as a 3D skyline" width="100%"></picture>
-
-<br>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg"><img src="assets/footer-light.svg" alt="Thanks for stopping by" width="100%"></picture>
