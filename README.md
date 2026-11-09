@@ -6,6 +6,8 @@
 <a href="mailto:csawant1200@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/btn-email-light.svg"><img src="assets/btn-email-light.svg" alt="Email" width="164"></picture></a>
 </p>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Chinmay1220&label=profile%20views&color=16a34a&style=flat" alt="Profile views"></p>
+
 <br>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-now-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/h-now-light.svg"><img src="assets/h-now-light.svg" alt="Now" width="100%"></picture>
@@ -24,6 +26,12 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/h-stack-light.svg"><img src="assets/h-stack-light.svg" alt="Stack" width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg"><img src="assets/stack-light.svg" alt="Languages: Python, TypeScript, SQL, JavaScript, R, Java. AI &amp; Agents: LangGraph, LangChain, RAG, Claude, OpenAI, Hugging Face, Ollama. ML &amp; Data: PyTorch, TensorFlow, scikit-learn, Pandas, Airflow, Snowflake, PostgreSQL. Product &amp; Web: Next.js, React, Tailwind, Framer Motion, FastAPI, Node.js. Cloud &amp; Ops: AWS, GCP, Azure, Docker, Kubernetes, GitHub Actions" width="100%"></picture>
+
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-act-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/h-act-light.svg"><img src="assets/h-act-light.svg" alt="Activity" width="100%"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/activity-light.svg"><img src="assets/activity-light.svg" alt="429 contributions in the last year, drawn as a 3D skyline" width="100%"></picture>
 
 <br>
 
