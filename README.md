@@ -12,23 +12,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/changelog-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/changelog-light.svg"><img src="assets/changelog-light.svg" alt="Now: shipping Sift, curating data with Winnow, reading with Gloss" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-work-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/h-work-light.svg"><img src="assets/h-work-light.svg" alt="Selected work" width="100%"></picture>
-
-<p align="center">
-<a href="https://github.com/Chinmay1220/Sift"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-1-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/work-1-light.svg"><img src="assets/work-1-light.svg" alt="Sift" width="49%"></picture></a>
-<a href="https://github.com/Chinmay1220/cadence"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-2-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/work-2-light.svg"><img src="assets/work-2-light.svg" alt="Cadence" width="49%"></picture></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/Chinmay1220/gloss"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-3-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/work-3-light.svg"><img src="assets/work-3-light.svg" alt="Gloss" width="49%"></picture></a>
-<a href="https://github.com/Chinmay1220/winnow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-4-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/work-4-light.svg"><img src="assets/work-4-light.svg" alt="Winnow" width="49%"></picture></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/Chinmay1220/Larder"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-5-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/work-5-light.svg"><img src="assets/work-5-light.svg" alt="Larder" width="49%"></picture></a>
-<a href="https://github.com/Chinmay1220/sf-city-pulse"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-6-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/work-6-light.svg"><img src="assets/work-6-light.svg" alt="SF City Pulse" width="49%"></picture></a>
-</p>
-
 <br>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-oss-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/h-oss-light.svg"><img src="assets/h-oss-light.svg" alt="Open source" width="100%"></picture>
@@ -41,12 +24,6 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/h-stack-light.svg"><img src="assets/h-stack-light.svg" alt="Stack" width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg"><img src="assets/stack-light.svg" alt="Languages: Python, TypeScript, SQL, JavaScript, R, Java. AI &amp; Agents: LangGraph, LangChain, RAG, Claude, OpenAI, Hugging Face, Ollama. ML &amp; Data: PyTorch, TensorFlow, scikit-learn, Pandas, Airflow, Snowflake, PostgreSQL. Product &amp; Web: Next.js, React, Tailwind, Framer Motion, FastAPI, Node.js. Cloud &amp; Ops: AWS, GCP, Azure, Docker, Kubernetes, GitHub Actions" width="100%"></picture>
-
-<br>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-act-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/h-act-light.svg"><img src="assets/h-act-light.svg" alt="Activity" width="100%"></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/activity-light.svg"><img src="assets/activity-light.svg" alt="427 contributions in the last year" width="100%"></picture>
 
 <br>
 
