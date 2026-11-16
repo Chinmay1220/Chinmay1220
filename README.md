@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg"><img src="assets/hero-light.svg" alt="Chinmay Sawant, Product Engineer" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg"><img src="assets/hero-light.svg" alt="Chinmay Sawant, Data & Product Engineer" width="100%"></picture>
 
 <p align="center">
 <a href="https://chinmay-sawant-product-engineer.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/btn-portfolio-light.svg"><img src="assets/btn-portfolio-light.svg" alt="Portfolio" width="164"></picture></a>
